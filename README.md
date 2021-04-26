@@ -8,6 +8,22 @@ It is a multiplayer ping pong game build on turtle module. where two persons can
 
 ## Usage example
 
+## Controls
+#### For Player A:
+
+	To move paddle up press 'w'
+	To move paddle down press 's'
+
+### For Player B:
+
+	To move paddle up press 'UP_ARROW'
+	To move paddle down press 'DOWN_ARROW'
+
+
+## Dependencies:
+
+1. Python v3.x is required.
+2. turtle module is also required.
 
 ## Contact
 Gabriel Porto - [Linkedin](https://www.linkedin.com/in/portoduque/)
