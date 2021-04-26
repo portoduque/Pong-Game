@@ -1,6 +1,6 @@
 
 ## About
-
+It is a multiplayer ping pong game build on turtle module. where two persons can play this game. you can simply run the main.py file to play the game by downloading all the files that are necessary to the game.
 
 ## Built With
 
@@ -27,4 +27,3 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/portoduque
 5. Submit a **Pull request** so that we can review your changes
 
  
-
