@@ -28,7 +28,3 @@ class Scoreboard(Turtle):
     def increase_left(self):
         self.left_score += 1
         self.update()
-
-
-
-

@@ -1,6 +1,7 @@
 from turtle import Screen
 from paddle import Paddle
 from ball import Ball
+from midline import Midline
 from scoreboard import Scoreboard
 
 # Create the screen
@@ -9,6 +10,11 @@ screen.setup(height=600, width=800)
 screen.title("Pong")
 screen.bgcolor("black")
 screen.tracer(0)
+
+# Create Midline
+midline = Midline()
+for x in range(20):
+    midline.draw_line()
 
 # Create and move right paddle
 right_paddle = Paddle((350, 0))
