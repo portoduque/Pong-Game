@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/37813839/116288739-31ddf800-a768-11eb-8aca-831f6a0de263.png)
 
 ## About
-It is a multiplayer ping pong game build on turtle module. where two persons can play this game. you can simply run the main.py file to play the game by downloading all the files that are necessary to the game.
+It is a multiplayer ping pong game build on turtle module, where two persons can play this game. You can run the main.py file to play the game by downloading all the files that are necessary to the game.
 
 ## Built With
 
