@@ -1,7 +1,7 @@
 from turtle import Turtle
 
 INCREASED_SPEED = 0.02
-DEFAULT_SPEED = 0.15
+DEFAULT_SPEED = 0.2
 
 
 class Ball(Turtle):
@@ -25,10 +25,14 @@ class Ball(Turtle):
         self.x_move_distance *= -1
         self.increase_speed()
 
-    def reset_position(self):
+    def reset_position_left(self):
         self.goto(0, 0)
         self.reset_speed()
-        self.paddle_bounce()
+
+    def reset_position_right(self):
+        self.goto(0, 0)
+        self.reset_speed()
+        self.x_move_distance *= -1
 
     def increase_speed(self):
         if self.x_move_distance > 0:

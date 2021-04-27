@@ -50,11 +50,11 @@ while game_is_on:
     # Detect when R paddle misses
     if ball.xcor() > 405:
         score.increase_left()
-        ball.reset_position()
+        ball.reset_position_right()
 
     # Detect when L paddle misses
     if ball.xcor() < -405:
         score.increase_right()
-        ball.reset_position()
+        ball.reset_position_left()
 
 screen.exitonclick()
