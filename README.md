@@ -8,6 +8,7 @@ It is a multiplayer ping pong game build on turtle module, where two persons can
 * [Pyhton](https://www.python.org/downloads/)
 
 ## Usage example
+![linkedin-video-_online-video-cutter com_](https://user-images.githubusercontent.com/37813839/116418349-702ff180-a812-11eb-8ca6-1898b7917604.gif)
 
 
 
