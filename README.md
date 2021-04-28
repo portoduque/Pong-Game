@@ -8,6 +8,7 @@ It is a multiplayer ping pong game build on turtle module, where two persons can
 * [Pyhton](https://www.python.org/downloads/)
 
 ## Usage example
+![usage-example](https://user-images.githubusercontent.com/37813839/116412579-34465d80-a80d-11eb-9a96-abc80ca4ac83.gif)
 
 ## Controls
 #### For Player A:
